@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Photo Frame Card Base -->
+        <path
+            android:fillColor="#E6FFFFFF"
+            android:pathData="M30,26 L78,26 C82.4,26 86,29.6 86,34 L86,74 C86,78.4 82.4,82 78,82 L30,82 C25.6,82 22,78.4 22,74 L22,34 C22,29.6 25.6,26 30,26 Z" />
+        <!-- Inner Photo Content Landscape Mountain -->
+        <path
+            android:fillColor="#F97316"
+            android:pathData="M26,76 L44,52 L54,64 L66,48 L82,76 Z" />
+        <!-- Sun / Cloud in photo -->
+        <path
+            android:fillColor="#FDE047"
+            android:pathData="M40,42 A6,6 0 1,0 40,30 A6,6 0 0,0 40,42 Z" />
+        <!-- Floating Glass Pin Indicator badge -->
+        <path
+            android:fillColor="#EC4899"
+            android:pathData="M72,20 C67.6,20 64,23.6 64,28 C64,34 72,43 72,43 C72,43 80,34 80,28 C80,23.6 76.4,20 72,20 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M72,26 A2.5,2.5 0 1,0 72,31 A2.5,2.5 0 0,0 72,26 Z" />
+        <!-- Camera Shutter Ring Accent at bottom right -->
+        <path
+            android:fillColor="#F472B6"
+            android:pathData="M78,68 A8,8 0 1,0 78,84 A8,8 0 0,0 78,68 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M78,73 A3,3 0 1,0 78,79 A3,3 0 0,0 78,73 Z" />
+    </group>
+</vector>
